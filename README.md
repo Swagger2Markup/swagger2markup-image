@@ -18,3 +18,7 @@ You can pull the Swagger2Markup image as follows:
 You can convert a Swagger Spec by running a Docker container as follows:
 
 `docker run --rm -v $(pwd):/opt swagger2markup/swagger2markup convert -i /opt/swagger.yaml -f /opt/swagger -c /opt/config.properties`
+
+You can also run swagger2markup by shell using `bin/swagger2markup.sh` as follows:
+
+`./bin/swagger2markup convert -i /opt/swagger.yaml -f /opt/swagger -c /opt/config.properties`
