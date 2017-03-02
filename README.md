@@ -8,7 +8,7 @@ The Swagger2Markup-CLI has been published as a Docker image on DockerHub.
 
 ## Reference Documentation
 
-http://swagger2markup.github.io/swagger2markup/1.2.0/
+http://swagger2markup.github.io/swagger2markup/1.3.0/
 
 ## Usage Guide
 You can pull the Swagger2Markup image as follows:
